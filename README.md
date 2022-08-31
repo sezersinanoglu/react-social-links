@@ -3,6 +3,8 @@
 ![alt text](https://github.com/sezersinanoglu/react-social-links/blob/main/mobile-version.jpg?raw=true)
 
 
+Live demo: [https://fascinating-moonbeam-5c6a4b.netlify.app/]
+
 ## Available Scripts
 
 In the project directory, you can run:
